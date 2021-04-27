@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mccake6
-- discord - @mccake6#0692
+- 👋 
+- 디스코드 - @mccake6#0692
 
 <!---
 mccake6/mccake6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
