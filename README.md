@@ -1,17 +1,27 @@
-<h1 align="center">Hi 👋, I'm mccake6</h1>
-<h3 align="center">I am a person.</h3>
+### Hi there 👋, my name is mccake6
+#### I'm just a person.
+![I'm just a person.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mccake6&label=Profile%20views&color=0e75b6&style=flat" alt="mccake6" /> </p>
+thinking...
 
-- 🔭 I'm currently working on hosting. [discord infinity bot](https://infinitybot.xyz)
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 📫 How to reach me **strappedlamp645@gmail.com**
+- 🔭 I’m currently working on infinity bot hosting 
+- 🌱 I’m currently learning python 
+- 📫 How to reach me: discord: _mccake6#0692 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mccake6)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCkNUfxqrkTamSam3OaGNZVA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mccake6.me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/channels/@me/689108507831697448)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mccake6&show_icons=true&locale=en" alt="mccake6" /></p>
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mccake6)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mccake6&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mccake6)  
+
+![Profile views](https://gpvc.arturio.dev/mccake6)  
 <!---
 mccake6/mccake6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
