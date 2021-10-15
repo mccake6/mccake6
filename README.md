@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is mccake6
 #### I'm just a person.
-![I'm just a person.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm just a person.]
 
 thinking...
 
