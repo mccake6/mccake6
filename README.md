@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is mccake6
 #### I'm just a person.
-![I'm just a person.]
 
 thinking...
 
