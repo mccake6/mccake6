@@ -4,7 +4,7 @@
 
 thinking...
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: html / python
 
 - 🔭 I’m currently working on infinity bot hosting 
 - 🌱 I’m currently learning python 
