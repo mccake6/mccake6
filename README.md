@@ -3,10 +3,7 @@
 
 thinking...
 
-Skills: html / python
 
-- 🔭 I’m currently working on infinity bot hosting 
-- 🌱 I’m currently learning python 
 - 📫 How to reach me: discord: _mccake6#0692 
 
 
